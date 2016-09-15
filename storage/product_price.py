@@ -1,5 +1,6 @@
 from peewee import *
 from base import BaseModel
+from product import Product
 
 
 class ProductPrice(BaseModel):
